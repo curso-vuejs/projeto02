@@ -1,47 +1,95 @@
 {
-    "registros":[
-        {
-            "id": 1,
-            "nome": "Thiago",
-            "cargo": "Analista",
-            "unidade": "Tupis",
-            "salario": 1000
-        },
-        {
-            "id": 2,
-            "nome": "Cecília",
-            "cargo": "Analista",
-            "unidade": "Tupis",
-            "salario": 2000
-        },
-        {
-            "id": 3,
-            "nome": "Paulo",
-            "cargo": "Analista",
-            "unidade": "Tupis",
-            "salario": 3000
-        },
-        {
-            "id": 4,
-            "nome": "João",
-            "cargo": "Analista Folha",
-            "unidade": "Tupis",
-            "salario": 6000
-        }
-    ],
-
-    "unidades": [
-    {    
-        "nome": "Sede",
-        "codigo": "1"
+  "registros": [
+    {
+      "id": 1,
+      "nome": "Thiago",
+      "cargo": "Analista",
+      "unidade": "Tupis",
+      "salario": 1000
     },
     {
-        "nome": "Tupis",
-        "codigo": "2"
+      "id": 2,
+      "nome": "Cecília",
+      "cargo": "Analista",
+      "unidade": "Tupis",
+      "salario": 2000
     },
     {
-        "nome": "Bhtrans",
-        "codigo": "3"
+      "id": 3,
+      "nome": "Paulo",
+      "cargo": "Analista",
+      "unidade": "Tupis",
+      "salario": 3000
+    },
+    {
+      "id": 4,
+      "nome": "João",
+      "cargo": "Analista Folha",
+      "unidade": "Tupis",
+      "salario": 6000
+    },
+    {
+      "id": 5,
+      "nome": "Bia",
+      "cargo": "Diretora",
+      "unidade": "2",
+      "salario": "12222"
+    },
+    {
+      "id": 6,
+      "nome": "Ana",
+      "cargo": "Gerente",
+      "unidade": "3",
+      "salario": "88888"
+    },
+    {
+      "id": 7,
+      "nome": "Antonio",
+      "cargo": "Analista",
+      "unidade": "1",
+      "salario": "4444"
+    },
+    {
+      "nome": "Joao",
+      "cargo": "Analista",
+      "unidade": "2",
+      "salario": "77777",
+      "id": 8
+    },
+    {
+      "nome": "Felipe",
+      "cargo": "Gerente",
+      "unidade": "3",
+      "salario": "12344",
+      "id": 9
+    },
+    {
+      "nome": "Tiao",
+      "cargo": "gerente",
+      "unidade": "3",
+      "salario": "88888",
+      "id": 10
+    },
+    {
+      "nome": "ruan",
+      "cargo": "analista",
+      "unidade": "3",
+      "salario": "4444",
+      "id": 11
     }
-    ]
+  ],
+  "unidades": [
+    {
+      "nome": "Sede",
+      "codigo": "1"
+    },
+    {
+      "nome": "Tupis",
+      "codigo": "2"
+    },
+    {
+      "nome": "Bhtrans",
+      "codigo": "3"
+    }
+  ]
 }
